@@ -3,7 +3,7 @@
 How to use:
 * Get an account and API key setup at https://developer.ui.com/site-manager-api/gettingstarted/
 * Import the template
-* Fill in the API key
+* Fill in the API key in the templates
 * Assign to a host that will be running the queries (I added my Zabbix server)
 * Sites should auto-discover and alert.
 
